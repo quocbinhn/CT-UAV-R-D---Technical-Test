@@ -7,4 +7,4 @@ opencv-python
 pillow
 pyyaml
 matplotlib
-tqdm
+numpy<2.0
